@@ -11,4 +11,3 @@ dependencies:
 - voila>=0.2.11
 - pip:
     - icalendar
-    - itertools
